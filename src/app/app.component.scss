@@ -1,0 +1,11 @@
+.phone-book {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+
+  .requirements {
+    // white-space: pre-line;
+    border: 1px solid #FAC748;
+    padding: 10px;
+  }
+}
